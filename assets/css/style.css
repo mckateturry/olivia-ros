@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: "Raleway", sans-serif;
+}
+
+.bg-grey {
+    background-color:#373A3C;  
+}
+
+
+.hero{
+    height: 608px;
+    background-image: url('../img/bg-hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    opacity: 1;
+}
+
+.hero h1{
+    text-align: right;
+font: normal normal bold 70px/82px Raleway;
+letter-spacing: 0.7px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.fa-camera, .fa-bullhorn, .fa-map{
+    font-size: 40px;
+    margin-block: 10%;
+}
+
+.lorem{
+    margin-block: 10%;
+}
+
+section{
+    background-color: #17A2B8;
+    margin-block: 5%;
+ 
+}
+
+
+
+/*
+.mistrabajos{
+    
+    padding-block: 25px;
+}
